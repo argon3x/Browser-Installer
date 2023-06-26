@@ -31,7 +31,8 @@ signal.signal(signal.SIGTERM, error_handler)
 
 
 def downloading_chrome():
-    hash_sha256 = "6e934c68f581a5e2ac15d705575d35a70bf5487183b31108240bbee5adccd866"
+    # updating hash
+    hash_sha256 = "6f700ff90db3a0f72ed9fb7ccbce31bd2f937366ed9b80d3ee0dafab7ba0693e"
     url = "https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
     filename = "google-chrome-stable_current_amd64.deb"
 
