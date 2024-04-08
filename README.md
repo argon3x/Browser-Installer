@@ -26,4 +26,4 @@ This script is still in *beta* version, undergoing some functionality testing an
 
 
 # References
-![https://brave.com/linux/#debian-ubuntu-mint](https://brave.com/linux/#debian-ubuntu-mint)
+[brave.com/linux/#debian-ubuntu-mint](https://brave.com/linux/#debian-ubuntu-mint)
